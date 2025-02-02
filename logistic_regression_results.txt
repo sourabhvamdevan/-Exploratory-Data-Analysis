@@ -1,0 +1,41 @@
+Logistic Regression Summary:
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:                  Churn   No. Observations:                 8547
+Model:                          Logit   Df Residuals:                     8537
+Method:                           MLE   Df Model:                            9
+Date:                Sun, 02 Feb 2025   Pseudo R-squ.:                     inf
+Time:                        12:28:34   Log-Likelihood:            -2.1825e-11
+converged:                      False   LL-Null:                        0.0000
+Covariance Type:            nonrobust   LLR p-value:                     1.000
+==========================================================================================
+                             coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------------
+const                    -23.8083   2.24e+06  -1.06e-05      1.000    -4.4e+06     4.4e+06
+Age                       -0.1585   7.91e+04     -2e-06      1.000   -1.55e+05    1.55e+05
+Engagement Duration       -0.0337   1.59e+04  -2.12e-06      1.000   -3.12e+04    3.12e+04
+Gender                     0.1547   4.65e+05   3.32e-07      1.000   -9.12e+05    9.12e+05
+Country                   -0.0632   2.28e+04  -2.78e-06      1.000   -4.46e+04    4.46e+04
+Institution Name          -0.0974   2.48e+04  -3.93e-06      1.000   -4.86e+04    4.86e+04
+Current/Intended Major    -0.0314   1.31e+04  -2.39e-06      1.000   -2.58e+04    2.58e+04
+Month of SignUp           -0.0688   1.03e+05   -6.7e-07      1.000   -2.01e+05    2.01e+05
+Day of Week of SignUp     -0.0421   1.05e+05     -4e-07      1.000   -2.06e+05    2.06e+05
+Season                    -0.0077   2.93e+05  -2.63e-08      1.000   -5.74e+05    5.74e+05
+==========================================================================================
+
+Complete Separation: The results show that there iscomplete separation or perfect prediction.
+In this case the Maximum Likelihood Estimator does not exist and the parameters
+are not identified.
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00      1710
+
+    accuracy                           1.00      1710
+   macro avg       1.00      1.00      1.00      1710
+weighted avg       1.00      1.00      1.00      1710
+
+
+Confusion Matrix:
+[[1710]]
