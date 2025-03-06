@@ -1,0 +1,90 @@
+--- Churn Rate: 85.25% ---
+
+--- Churn Analysis by Opportunity Category ---
+  Opportunity Category     Churn  Churn Rate
+0          Competition  1.000000  100.000000
+1               Course  1.000000  100.000000
+2           Engagement  1.000000  100.000000
+3                Event  1.000000  100.000000
+4           Internship  0.767202   76.720162
+
+--- Churn Analysis by Gender ---
+   Gender     Churn  Churn Rate
+0  Female  0.833333   83.333333
+1    Male  0.866082   86.608210
+2   Other  0.833333   83.333333
+
+--- Churn Analysis by Country ---
+                                   Country     Churn  Churn Rate
+0                              Afghanistan  1.000000  100.000000
+27  Iran  Islamic Republic of Persian Gulf  1.000000  100.000000
+30                                 Ireland  1.000000  100.000000
+31                                   Japan  1.000000  100.000000
+32                              Kazakhstan  1.000000  100.000000
+1                                  Algeria  1.000000  100.000000
+36                                 Lesotho  1.000000  100.000000
+37                                 Liberia  1.000000  100.000000
+38                  Libyan Arab Jamahiriya  1.000000  100.000000
+39                                Malaysia  1.000000  100.000000
+40                               Mauritius  1.000000  100.000000
+41                                 Morocco  1.000000  100.000000
+42                                 Namibia  1.000000  100.000000
+43                                   Nepal  1.000000  100.000000
+46                                    Peru  1.000000  100.000000
+52                               Singapore  1.000000  100.000000
+53                                 Somalia  1.000000  100.000000
+55                                   Spain  1.000000  100.000000
+56                               Sri Lanka  1.000000  100.000000
+57   Tanzania, United Republic of Tanzania  1.000000  100.000000
+58                                 Tunisia  1.000000  100.000000
+61                                 Ukraine  1.000000  100.000000
+65                              Uzbekistan  1.000000  100.000000
+66                                 Vietnam  1.000000  100.000000
+69                                  Zambia  1.000000  100.000000
+29                                    Iraq  1.000000  100.000000
+35                                 Lebanon  1.000000  100.000000
+26                               Indonesia  1.000000  100.000000
+19             Falkland Islands (Malvinas)  1.000000  100.000000
+4                               Azerbaijan  1.000000  100.000000
+6                                  Belarus  1.000000  100.000000
+7                                   Bhutan  1.000000  100.000000
+8                                 Botswana  1.000000  100.000000
+9                                   Brazil  1.000000  100.000000
+14                                   Congo  1.000000  100.000000
+15                           Cote d'Ivoire  1.000000  100.000000
+16                      Dominican Republic  1.000000  100.000000
+70                                Zimbabwe  1.000000  100.000000
+20                                  France  1.000000  100.000000
+24                                Honduras  1.000000  100.000000
+45                                Pakistan  0.949772   94.977169
+60                                  Uganda  0.916667   91.666667
+51                            Sierra Leone  0.909091   90.909091
+62                    United Arab Emirates  0.900000   90.000000
+49                                  Rwanda  0.892857   89.285714
+34          Korea, Republic of South Korea  0.888889   88.888889
+25                                   India  0.882581   88.258110
+59                                  Turkey  0.882353   88.235294
+21                                  Gambia  0.875000   87.500000
+18                                Ethiopia  0.868421   86.842105
+17                                   Egypt  0.860000   86.000000
+54                            South Africa  0.857143   85.714286
+44                                 Nigeria  0.848684   84.868421
+47                             Philippines  0.846154   84.615385
+23                                   Ghana  0.843636   84.363636
+64                           United States  0.825201   82.520121
+33                                   Kenya  0.815789   81.578947
+5                               Bangladesh  0.800000   80.000000
+63                          United Kingdom  0.777778   77.777778
+2                           American Samoa  0.750000   75.000000
+3                                Australia  0.750000   75.000000
+50                            Saudi Arabia  0.750000   75.000000
+22                                 Germany  0.750000   75.000000
+11                                Cameroon  0.750000   75.000000
+12                                  Canada  0.750000   75.000000
+28  Iran, Islamic Republic of Persian Gulf  0.666667   66.666667
+10          British Indian Ocean Territory  0.666667   66.666667
+68                                   Yemen  0.666667   66.666667
+13                                   China  0.625000   62.500000
+48                                   Qatar  0.000000    0.000000
+67                    Virgin Islands, U.S.  0.000000    0.000000
+
